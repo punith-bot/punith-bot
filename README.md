@@ -1,234 +1,170 @@
+# Hi there 👋 I'm **Punith Vuppala**
+
 <div align="center">
 
-# 👋 Hello, I'm Punith Vuppala
+<!-- Replace with your generated banner -->
 
-### Robotics & AI Enthusiast | ROS 2 Developer | Embedded Systems Engineer
+<img src="./dark.svg" alt="Punith Vuppala Banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Robotics+%7C+Artificial+Intelligence;ROS+2+Developer;Embedded+Systems+Engineer;Computer+Vision+%7C+IoT;Always+Learning+Something+New..." />
+### **AI Engineer • Robotics Developer • Full Stack Developer • Open Source Enthusiast**
+
+Building intelligent systems that bridge **Artificial Intelligence**, **Robotics**, **Automation**, and **Software Engineering**.
 
 </div>
 
 ---
 
-```text
-punith@punith
-──────────────────────────────────────────────────────────────────────────────
+## 🚀 About Me
 
-                 [ //////////(##((/(#/%#%#%(%%#%(#%####((#(//%%%##%###/((#%####%#&&##/%%&%%%%#((/#/
-/////////*////(/(//###(#%*##((#%#%#%%(####%%%%%%#####%(##%%%/%%%%&%&(%#%&%#((,*(
-..,((((/(/(///(/(/*/**,,/#///%##%#%#%(*,/(((####&#%(#((%(##%(%&&&%&%%&&%%#%%(,/*
-/((/(##(//(#/#//((((/###/////(/*/%&%#####%(**(((****,,,,,,*,*.*,,,,,,%%%,#*,##((
-%#(#*/((/#(*///,(((*./,/,(,*#(#%%&%&%%&%%(%%%%##((,*,.,,... ....,. ..%%((%&%%,*&
-#(/////(((/##*/,*%///,*((###%#%&&&&&%#&&%%%#&%%%#(#%**,,........,,,.,%(%((#&%#%%
-((((#%%#(###/**#,*#(/*.*((&&&&%&&&%%&&&&&&&%@&%%&&&%%##((*((#((#(((%##%&###((%/#
-###((((//(#/((/((((((#/%&&&%%%%&&&&&%&&&&&&&&&&%%%&&%#(%*/*//////*,%#((%######%(
-/%##%##%/(/,,,##(*#//(%&&&&&&%%&&&&&%(##&&&&&%%&@@&&%%#(((((#######%##(%#######%
-((%##%&(%(*,,.,((/(/(#%%&&&&&&&&&&%%#(/**//(/#&@@@&&%%###(##(##%%#(%(#&/(%%#%%##
-%##(((##%#%((((*#%/(#&&&&&@@@&&%##/*,,,...,*/*/%&%&%(%%(*#%%%##((###((#%(%###%%%
-###%((#(((##/%%###(/#%&&&@@@&%%%&&&%#(((##%%%%##%%%&&%##((%%%#%%%###/((##/(%##%%
-##((#%%###((#(*/#(%(#&&&&&@%&&&@@&&&&(,(%&&%(%&(#&&&&#*#(#%%#%/%((%%##&#&#(&%%%&
-%#%(/#%##%#//#%%&%###&&&&@%%%#%&%((((/,*/*%&%%#//&&&#(#/#(&%(%#((#&%%%##(%%##(#%
-#/#%%#%%%#*,,%&%&&&*/*&&&#%#//**((/*(/****/,,,,//&%%#%%%/#%#&%%/(##%%%%#%&%/#%/%
-%#//,,..,*,*////*(%***%&%%%%%%%##%&&&&%&%#/(%#((((*#%%(%%/%&&%#&/(&%&&##&%%%#%%%
-//(.      ....    *,/, /%%%%&&&&&&&%%(/(##(#%&%#(/&%%%&%&&*&%%&%(%(&&%##/**%((/(
-**   .*.. ,*,     ***  ,,%%%&%&%&&%(**,,*%/(###(#((/((((#((*(((/(/(/(((((/#%(((/
-*.      , ,/*,    /**, ./#%%%&%%%%%%%%%#((/(###(//////(/((((*##/(/#/*/////#(/(#(
- .  ../(####%%#%%,/.,  ,%%%%%%%%#(//***,**(###/**************,*,****/*****#(****
-... ./#%%&&&&&&&&&# * ,*(%%%&&&&&&&&&&&%%%%%(/**(%%###%%/******,****#&#&&&((%&&&
- ....//**,,*/,*&&&% ,,*/#&%&&&&&&&&&&&&&%%(//*%%((((#&&&&&#***/,*/%&#%/*,*,,/(&&
-.,..////#/(/#(/***# *,/%%/%&&&&&&&&&&%%%(/(,...,/##/%#%%&&&#****/&#*//**(/(/(%(@
- ..#%%(##*%/%*#/*(#,%%(//*,%&&&&&&&&&%#((#///......,*,*/. .*./*(%(###(%(*(,,*,/%
-****%#%&%&##(/,//*..(,,,///%*#%%%%%%(///(&@@@@%(/(((###%#(//#*/(/,*,/&%(*/#(****
-,.*//(//(*.*/..** *(*(((&@@@@@&%((****/#/(#&%(#(#(/(#((%/#(*/*///,,,,,*#(/*/((,*
-,.,*/(/((#(((#***//(((&#((%&@@@@@@@/(#((//(#////(//////%//((*,((//     .*(/*/((*
-,((/((%#/,*(/(/*,**(///(/(////((#&%&//(/(*#//(/(///////#//((//,,,,      .*#(/#(/
-(*,.,,..... #(/*,**(//////((///(//(%((/(*(/////////////#//((*//###/*///*((#(*##(
-/**,,,,*/.. ,(/(,,*(//////////*/(//(///(*(//(//////////(//((*%##&%/(/*/*((#%%/(%
-#(##########/((%***((////////((//(/((///#(//*,,.......,,,.,,.&&%#///*/*((///#%%&
-&%&%(/#######//,, .**,.........,,,,*/**,*,,*/,*,..,,,,,*,,,,*%##(/***,/#(///(%&%
-&(/(((#%#(//%#,((  ,*,,,,,......,,,,,,**/.*,*,,,,....,,,,,*,###/*/(*,*//////(&%#
-&%%%%%%#//((//*#/, ,/**,,,,,,,,.,*,,/*(,/,#%%%###((#((#%%%(&%(/******///***/*/%%
-&#(((///*//((//(**/(#%#######((##%#%(((#%(/%%%%#####%%%%###%#(,......,,.......##
-&((/....... ...,,#*((%#%%%####(##%#&#(##%/*#%%%%##%%%%&%%#&//,,**/((((((((*...#(
-%*,,,,,. . ..**.*./%(##%%%###%#(#%#&((##%/*(##%##(##%%%&&@@((#%((//(((((((((((,.
-#/*,(((((((/***/%*,%((###%%(#%((#%(%#(##%(//#(/******,***##%%%#(///////(##(((((,
-#/%#%##(////(///(*/#(((((((/////*************,,*,***,,,,***,**../((/////(/((#*((
-*(%%%%//*/(///#%****((((((((*******,*,,,,,,,,,,,*****,*****(%/**((//*(//((((((//
-**%%#%.//////#%****/#(((((((**,,,,,,,,******/*//////(##///#####((%&#(&#/(/(((/(/
-,**##%%/.//(###*/*/(((#(###(*****///////////(((#%(/////////%%###%##*&&#&#(#%((//
-***/%%%%&(/##%/(/*/########(//(((((((((///(##///////////////#%###%#%//&@######(*
-**,**#%%%%/(##/#/(#%%%%#%#%####((//(((#%&(//////////////////(###%#%#%%/(/((#(,((
-****,*#%%%%##%%%##%#%#(,*((###(##%%&&%#((####################&%#%%%%%%&((%&#/**#
-,****,**%%%###%&&#&&&&&%&#&%%%%%%%%((((((###%%&&&&&&&&&&%%%%&&&&%#*####%%#%/,%%% ]
-
-OS               : Ubuntu 24.04 LTS
-Host             : ASUS TUF Gaming F15
-Kernel           : 6.x WSL2
-IDE              : VS Code
-
-Languages.Programming : Python • C • C++ • MATLAB • JavaScript
-Languages.Computer    : HTML • CSS • JSON • YAML • LaTeX
-Languages.Real        : English • Telugu • Hindi
-
-Hobbies.Software : Robotics • AI/ML • Computer Vision
-Hobbies.Hardware : Embedded Systems • IoT • ESP32 • Arduino
-
-──────────────────────────────────────────────────────────────────────────────
-
-Email.Personal : punithvuppaa@gmail.com
-Instagram      : @punithvuppala
-LinkedIn       : linkedin.com/in/punith-vuppala
-GitHub         : github.com/punith-bot
-
-──────────────────────────────────────────────────────────────────────────────
-
-Current Focus
-
-• ROS 2 Development
-• Autonomous Robotics
-• Computer Vision
-• Machine Learning
-• Embedded AI
-• Hadoop & Big Data
-
-```
+* 🎓 **B.Tech in Robotics & Artificial Intelligence**
+* 🤖 Passionate about **Artificial Intelligence, Robotics, Computer Vision, and Autonomous Systems**
+* 🛰️ Worked on the **ISRO Hackathon – Detect Exoplanets from Light Curves**
+* 📈 Developed an **AI-powered Stock Analysis Bot**
+* 💬 Built an **AI WhatsApp Assistant**
+* ⚙️ Building robotics applications using **ROS 2** and **ESP32**
+* 🌱 Currently exploring **Large Language Models (LLMs), Reinforcement Learning, Hadoop, and Distributed AI**
+* 💡 I enjoy turning ambitious ideas into real-world products.
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,matlab" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css"/>
 </p>
 
-### AI / Robotics
+### AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,ros,docker" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
-### Embedded
+* Computer Vision
+* Deep Learning
+* NLP
+* Machine Learning
+
+### Robotics & Embedded
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,bash" />
+<img src="https://skillicons.dev/icons?i=arduino"/>
 </p>
 
-### Development
+* ROS 2
+* ESP32
+* Arduino
+* Embedded Systems
+* Sensors & Actuators
+
+### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,postgresql" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgresql,mysql"/>
 </p>
 
----
+### DevOps & Tools
 
-# 📌 Featured Projects
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+</p>
 
-## 🤖 ROS 2 Workspace
+### Big Data
 
-ROS2 packages for robotics development
-
-- Custom Nodes
-- Publishers & Subscribers
-- Sensor Integration
-- ESP32 Communication
-
----
-
-## 🚗 Gesture Controlled Car
-
-ESP32 + MPU6050 based gesture-controlled robot.
-
-**Technologies**
-
-- ESP32
-- MPU6050
-- L298N
-- Arduino
-- C++
+* Hadoop
+* MapReduce
+* HDFS
 
 ---
 
-## 🌌 AI Exoplanet Detector
+# 🚀 Featured Projects
 
-Deep Learning pipeline for exoplanet detection using TESS & Kepler datasets.
+### 🛰️ Detect Exoplanets from Light Curves
 
-Features
-
-- CNN
-- Transformers
-- FastAPI
-- PostgreSQL
+> ISRO Hackathon project leveraging AI to identify potential exoplanets from telescope light curve data.
 
 ---
 
-## 📊 Hadoop WordCount
+### 📈 AI Stock Analysis Bot
 
-Custom MapReduce implementation.
-
-- Mapper
-- Reducer
-- Combiner
-- Driver
-- HDFS
+* Technical Analysis
+* AI-powered insights
+* Market trend prediction
+* Automated recommendations
 
 ---
 
-# 📈 GitHub Stats
+### 💬 AI WhatsApp Assistant
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=punith-bot&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=punith-bot&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=punith-bot&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+* Conversational AI
+* Smart automation
+* Workflow integration
 
 ---
 
-# 🏆 GitHub Trophies
+### 🤖 ROS 2 Robotics Projects
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=punith-bot&theme=tokyonight&no-frame=true&row=2&column=4)
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=punith-bot&theme=tokyo-night)
+* Sensor integration
+* Robot communication
+* Autonomous control
+* ESP32 integration
 
 ---
 
-# 🌐 Connect With Me
+### 🚗 Gesture Controlled Robot
 
-<p align="center">
+* ESP32
+* MPU6050
+* L298N
+* Wireless Motion Control
+
+---
+
+## 📚 Currently Learning
+
+* 🤖 Advanced Robotics
+* 🧠 Large Language Models
+* 📊 Hadoop Ecosystem
+* ⚡ Reinforcement Learning
+* ☁️ Distributed Systems
+* 👁️ Computer Vision
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
 
 <a href="https://github.com/punith-bot">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/punith-vuppala">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<a href="https://www.linkedin.com/in/punith-vuppala">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/punithvuppala">
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 <a href="mailto:punithvuppaa@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
+
+* **GitHub:** https://github.com/punith-bot
+* **LinkedIn:** https://www.linkedin.com/in/punith-vuppala
+* **Instagram:** https://www.instagram.com/punithvuppala
+* **Email:** [punithvuppaa@gmail.com](mailto:punithvuppaa@gmail.com)
 
 ---
 
 <div align="center">
 
-### 💡 "Building robots that think, learn, and solve real-world problems."
+### *"Building intelligent systems that solve real-world problems through AI, Robotics, and Software Engineering."*
 
-![](https://komarev.com/ghpvc/?username=punith-bot&color=blueviolet&style=for-the-badge)
+⭐ **If you like my work, consider starring my repositories!**
 
 </div>
