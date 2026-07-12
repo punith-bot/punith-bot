@@ -1,170 +1,189 @@
-# Hi there 👋 I'm **Punith Vuppala**
-
 <div align="center">
 
-<!-- Replace with your generated banner -->
+# 👋 Hello, I'm Punith Vuppala
 
-<img src="./dark.svg" alt="Punith Vuppala Banner" width="100%"/>
+### Robotics & AI Enthusiast | ROS 2 Developer | Embedded Systems Engineer
 
-### **AI Engineer • Robotics Developer • Full Stack Developer • Open Source Enthusiast**
-
-Building intelligent systems that bridge **Artificial Intelligence**, **Robotics**, **Automation**, and **Software Engineering**.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Robotics+%7C+Artificial+Intelligence;ROS+2+Developer;Embedded+Systems+Engineer;Computer+Vision+%7C+IoT;Always+Learning+Something+New..." />
 
 </div>
 
 ---
 
-## 🚀 About Me
+```text
+punith@punith
+──────────────────────────────────────────────────────────────────────────────
 
-* 🎓 **B.Tech in Robotics & Artificial Intelligence**
-* 🤖 Passionate about **Artificial Intelligence, Robotics, Computer Vision, and Autonomous Systems**
-* 🛰️ Worked on the **ISRO Hackathon – Detect Exoplanets from Light Curves**
-* 📈 Developed an **AI-powered Stock Analysis Bot**
-* 💬 Built an **AI WhatsApp Assistant**
-* ⚙️ Building robotics applications using **ROS 2** and **ESP32**
-* 🌱 Currently exploring **Large Language Models (LLMs), Reinforcement Learning, Hadoop, and Distributed AI**
-* 💡 I enjoy turning ambitious ideas into real-world products.
+                 [ YOUR ASCII PORTRAIT HERE ]
+
+OS               : Ubuntu 24.04 LTS
+Host             : ASUS TUF Gaming F15
+Kernel           : 6.x WSL2
+IDE              : VS Code
+
+Languages.Programming : Python • C • C++ • MATLAB • JavaScript
+Languages.Computer    : HTML • CSS • JSON • YAML • LaTeX
+Languages.Real        : English • Telugu • Hindi
+
+Hobbies.Software : Robotics • AI/ML • Computer Vision
+Hobbies.Hardware : Embedded Systems • IoT • ESP32 • Arduino
+
+──────────────────────────────────────────────────────────────────────────────
+
+Email.Personal : punithvuppaa@gmail.com
+Instagram      : @punithvuppala
+LinkedIn       : linkedin.com/in/punith-vuppala
+GitHub         : github.com/punith-bot
+
+──────────────────────────────────────────────────────────────────────────────
+
+Current Focus
+
+• ROS 2 Development
+• Autonomous Robotics
+• Computer Vision
+• Machine Learning
+• Embedded AI
+• Hadoop & Big Data
+
+```
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,matlab" />
 </p>
 
-### AI & Machine Learning
+### AI / Robotics
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,ros,docker" />
 </p>
 
-* Computer Vision
-* Deep Learning
-* NLP
-* Machine Learning
-
-### Robotics & Embedded
+### Embedded
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,bash" />
 </p>
 
-* ROS 2
-* ESP32
-* Arduino
-* Embedded Systems
-* Sensors & Actuators
-
-### Backend & Databases
+### Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgresql,mysql"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,postgresql" />
 </p>
 
-### DevOps & Tools
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
-</p>
+# 📌 Featured Projects
 
-### Big Data
+## 🤖 ROS 2 Workspace
 
-* Hadoop
-* MapReduce
-* HDFS
+ROS2 packages for robotics development
+
+- Custom Nodes
+- Publishers & Subscribers
+- Sensor Integration
+- ESP32 Communication
 
 ---
 
-# 🚀 Featured Projects
+## 🚗 Gesture Controlled Car
 
-### 🛰️ Detect Exoplanets from Light Curves
+ESP32 + MPU6050 based gesture-controlled robot.
 
-> ISRO Hackathon project leveraging AI to identify potential exoplanets from telescope light curve data.
+**Technologies**
 
----
-
-### 📈 AI Stock Analysis Bot
-
-* Technical Analysis
-* AI-powered insights
-* Market trend prediction
-* Automated recommendations
+- ESP32
+- MPU6050
+- L298N
+- Arduino
+- C++
 
 ---
 
-### 💬 AI WhatsApp Assistant
+## 🌌 AI Exoplanet Detector
 
-* Conversational AI
-* Smart automation
-* Workflow integration
+Deep Learning pipeline for exoplanet detection using TESS & Kepler datasets.
 
----
+Features
 
-### 🤖 ROS 2 Robotics Projects
-
-* Sensor integration
-* Robot communication
-* Autonomous control
-* ESP32 integration
+- CNN
+- Transformers
+- FastAPI
+- PostgreSQL
 
 ---
 
-### 🚗 Gesture Controlled Robot
+## 📊 Hadoop WordCount
 
-* ESP32
-* MPU6050
-* L298N
-* Wireless Motion Control
+Custom MapReduce implementation.
 
----
-
-## 📚 Currently Learning
-
-* 🤖 Advanced Robotics
-* 🧠 Large Language Models
-* 📊 Hadoop Ecosystem
-* ⚡ Reinforcement Learning
-* ☁️ Distributed Systems
-* 👁️ Computer Vision
+- Mapper
+- Reducer
+- Combiner
+- Driver
+- HDFS
 
 ---
 
-## 🌍 Connect With Me
+# 📈 GitHub Stats
 
-<p align="left">
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=punith-bot&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=punith-bot&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=punith-bot&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=punith-bot&theme=tokyonight&no-frame=true&row=2&column=4)
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=punith-bot&theme=tokyo-night)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/punith-bot">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
-<a href="https://www.linkedin.com/in/punith-vuppala">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://www.instagram.com/punithvuppala">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<a href="https://linkedin.com/in/punith-vuppala">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
 <a href="mailto:punithvuppaa@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
 </p>
-
-* **GitHub:** https://github.com/punith-bot
-* **LinkedIn:** https://www.linkedin.com/in/punith-vuppala
-* **Instagram:** https://www.instagram.com/punithvuppala
-* **Email:** [punithvuppaa@gmail.com](mailto:punithvuppaa@gmail.com)
 
 ---
 
 <div align="center">
 
-### *"Building intelligent systems that solve real-world problems through AI, Robotics, and Software Engineering."*
+### 💡 "Building robots that think, learn, and solve real-world problems."
 
-⭐ **If you like my work, consider starring my repositories!**
+![](https://komarev.com/ghpvc/?username=punith-bot&color=blueviolet&style=for-the-badge)
 
 </div>
